@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90d5b9ce32c4d2d458664b0702ba35aa, type: 3}
+  m_Name: 0008
+  m_EditorClassIdentifier: 
+  sID: 8
+  sName: "\u6E56\u6CCA"
+  color:
+    r: 0.19344072
+    g: 0.52357054
+    b: 0.6509434
+    a: 1
+  texture: {fileID: 0}
+  buildings: []
+  cterrians:
+  - {fileID: 11400000, guid: 99f88bf69aa04a344960a94db42e0c20, type: 2}
+  land: 0

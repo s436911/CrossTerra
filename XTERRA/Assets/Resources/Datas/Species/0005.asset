@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4deb673292300e740847184c8dcb458f, type: 3}
+  m_Name: 0005
+  m_EditorClassIdentifier: 
+  sID: 5
+  sName: DarkGiantSkeleton
+  size: 1.6
+  model: Skeleton
+  skin: SkeletonD
+  atkCT: 0
+  arbkCT: 0
+  matkCT: 0
+  armorCT: 0
+  hpCT: 120
+  resistCR: 0
+  accCR: 100
+  avdCR: 60
+  spdRT: -0.2
+  aspdRT: 0
+  cSkills: e903000001000000
